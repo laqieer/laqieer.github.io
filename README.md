@@ -1,8 +1,8 @@
 {% include navigation.html %}
 
-## Welcome to Laqieer's Gallery
+# Welcome to Laqieer's Gallery
 
-### GBALVNS
+## GBALVNS
 
 ![GitHub](https://img.shields.io/github/license/laqieer/gbalvns)
 
@@ -12,7 +12,7 @@ GBALVNS is a Visual Novel / AVG / ADV / Galgame engine on Game Boy Advance.
 
 [Demo](https://github.com/laqieer/gbalvns/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/gbalvns){: .btn}
 
-### SS6PlayerForGBA
+## SS6PlayerForGBA
 
 ![GitHub](https://img.shields.io/github/license/laqieer/SS6PlayerForGBA)
 
@@ -22,7 +22,7 @@ SS6PlayerForGBA is a 2D skeletal animation engine on Game Boy Advance. It works 
 
 [Demo](https://github.com/laqieer/SS6PlayerForGBA/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/SS6PlayerForGBA){: .btn}
 
-### libgbabackup
+## libgbabackup
 
 ![GitHub](https://img.shields.io/github/license/laqieer/libgbabackup)
 
@@ -39,7 +39,7 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 
 [Download](https://github.com/laqieer/libgbabackup/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/libgbabackup){: .btn}
 
-### FEHR
+## FEHR
 
 ![GitHub](https://img.shields.io/github/license/laqieer/fe7-jp-stunning-tribble)
 
