@@ -41,6 +41,8 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 
 ### FEHR
 
+![GitHub](https://img.shields.io/github/license/laqieer/fe7-jp-stunning-tribble)
+
 FEHR is [Fire Emblem Heroes](Fire Emblem Heroes) Remake on Game Boy Advance.
 
 ![](https://feuniverse.us/uploads/default/original/3X/3/1/316c67156c80d51202aee42e7e67f8bc4a061e7a.png)![](https://feuniverse.us/uploads/default/original/3X/7/7/77a28136ee92b72e509327b3b8236a970aaa89d6.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NDgucG5n/original/PByZHc.png)
