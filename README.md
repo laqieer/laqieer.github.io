@@ -10,7 +10,7 @@ GBALVNS is a Visual Novel / AVG / ADV / Galgame engine on Game Boy Advance.
 
 ![](https://media.discordapp.net/attachments/682141375587680274/820353615485992960/summer-3.png)![](https://media.discordapp.net/attachments/682141375587680274/820558326080339988/summer-1.png)![](https://media.discordapp.net/attachments/682141375587680274/820558322981404692/summer-0.png)
 
-[Demo](https://github.com/laqieer/gbalvns/releases/latest) | [Source Code](https://github.com/laqieer/gbalvns)
+[Demo](https://github.com/laqieer/gbalvns/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/gbalvns){: .btn}
 
 ### SS6PlayerForGBA
 
@@ -20,7 +20,7 @@ SS6PlayerForGBA is a 2D skeletal animation engine on Game Boy Advance. It works 
 
 ![](https://media.discordapp.net/attachments/682141375587680274/840278168560467988/character_sample1-0.png)![](https://media.discordapp.net/attachments/682141375587680274/840278166294888459/character_sample1-1.png)
 
-[Demo](https://github.com/laqieer/SS6PlayerForGBA/releases/latest) | [Source Code](https://github.com/laqieer/SS6PlayerForGBA)
+[Demo](https://github.com/laqieer/SS6PlayerForGBA/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/SS6PlayerForGBA){: .btn}
 
 ### libgbabackup
 
@@ -37,7 +37,7 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 |eeprom(4k)|✅|✅|❌|✅|✅|✅|✅|
 |eeprom(64k)|✅|❌|❌|✅|❌|✅|✅|
 
-[Download](https://github.com/laqieer/libgbabackup/releases/latest) | [Source Code](https://github.com/laqieer/libgbabackup)
+[Download](https://github.com/laqieer/libgbabackup/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/libgbabackup){: .btn}
 
 ### FEHR
 
@@ -49,4 +49,4 @@ FEHR is [Fire Emblem Heroes](Fire Emblem Heroes) Remake on Game Boy Advance.
 
 ![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NTEucG5n/original/Y%2FQzF7.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NDkucG5n/original/kj1s%2BV.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NTAucG5n/original/6NjmIP.png)
 
-[Try Out](https://laqieer.gitee.io/fehr/launcher.html#fehr) | [Download](https://github.com/laqieer/fe7-jp-stunning-tribble/releases/latest) | [Source Code](https://github.com/laqieer/fe7-jp-stunning-tribble) | [Wiki](https://github.com/laqieer/fe7-jp-stunning-tribble/wiki)
+[Try Out](https://laqieer.gitee.io/fehr/launcher.html#fehr){: .btn} | [Download](https://github.com/laqieer/fe7-jp-stunning-tribble/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/fe7-jp-stunning-tribble){: .btn} | [Wiki](https://github.com/laqieer/fe7-jp-stunning-tribble/wiki){: .btn}
