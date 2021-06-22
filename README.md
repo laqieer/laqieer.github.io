@@ -1,4 +1,4 @@
-## Welcome to laqieer's website
+## Welcome to Laqieer's Gallery
 
 ### GBALVNS
 
