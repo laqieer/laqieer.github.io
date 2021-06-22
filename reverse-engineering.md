@@ -26,6 +26,14 @@ gba-disasm-decomp-tools includes tools to disassemble or decompile GBA games. Ea
 
 [Docker](https://hub.docker.com/r/laqieer/gba-disasm-decomp-tools/){: .btn} | [Source Code](https://github.com/laqieer/gba-disasm-decomp-tools){: .btn}
 
+## decomp-permuter-arm
+
+![GitHub](https://img.shields.io/github/license/laqieer/decomp-permuter-arm)
+
+decomp-permuter-arm permutes C files to better match binary on ARM platform to help decomp GBA games.
+
+[Download](https://github.com/laqieer/decomp-permuter-arm){: .btn}
+
 ## IDABuddy
 
 ![GitHub](https://img.shields.io/github/license/laqieer/IDABuddy)
