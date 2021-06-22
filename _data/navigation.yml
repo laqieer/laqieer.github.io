@@ -1,6 +1,8 @@
 - name: Home
   link: /
-- name: Homebrew
+- name: GBA Homebrew
   link: /homebrew.html
+- name: Reverse Engineering
+  link: /reverse-engineering.html
 - name: About
   link: /about.html
