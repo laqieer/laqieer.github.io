@@ -47,7 +47,7 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 
 ![GitHub](https://img.shields.io/github/license/laqieer/libsysgba)
 
-libsysgba is a library to implement standard system calls to support C/C++ standard library functions such as file I/O and fstream.
+libsysgba is a library to implement standard system calls to support C/C++ standard library functions such as file I/O and fstream. It can also access backup media SRAM as a file.
 
 ```C
 int fd = open("xxx.txt", O_RDONLY);
@@ -62,6 +62,12 @@ fscanf(fp, "%d %d", &i, &j);
 std::ifstream fs("xxx.txt");
 std::stringstream ss;
 ss << fs.rdbuf();
+```
+```C
+int fd = open("sram:", O_RDWR);
+```
+```C
+FILE *fp = fopen("sram:", "r+");
 ```
 
 [Download](https://github.com/laqieer/libsysgba/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/libsysgba){: .btn}
