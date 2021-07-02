@@ -43,6 +43,14 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 
 [Download](https://github.com/laqieer/libgbabackup/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/libgbabackup){: .btn}
 
+### libsavgba
+
+![GitHub](https://img.shields.io/github/license/laqieer/libsavgba)
+
+libsavgba is a well-documented library to access various backup media in GBA cartridges.
+
+[Download](https://github.com/laqieer/libsavgba/releases/latest){: .btn} | [Documentation](https://laqieer.github.io/libsavgba/){: .btn} | [Source Code](https://github.com/laqieer/libsavgba){: .btn}
+
 ### libsysgba
 
 ![GitHub](https://img.shields.io/github/license/laqieer/libsysgba)
