@@ -26,23 +26,6 @@ SS6PlayerForGBA is a 2D skeletal animation engine on Game Boy Advance. It works 
 
 ## Library
 
-### libgbabackup
-
-![GitHub](https://img.shields.io/github/license/laqieer/libgbabackup)
-
-libgbabackup is a library to access backup media on Game Boy Advance. It supports all save types and works with flashcarts and emulators.
-
-|Devices|EZ-FLASH OMEGA|EverDrive-GBA X5|SuperCard MINI SD|mGBA|visualboyadvance-m|NO$GBA|VisualBoyAdvance|NanoBoyAdvance|
-|---|---|---|---|---|---|---|---|---|
-|sram|✅|✅|✅|✅|✅|✅|✅|✅|
-|sram(fast)|✅|✅|✅|✅|✅|✅|✅|✅|
-|flash(512k)|✅|✅|❌|✅|✅|✅|✅|✅|
-|flash(1m)|✅|✅|❌|✅|✅|✅|✅|✅|
-|eeprom(4k)|✅|✅|❌|✅|✅|✅|✅|✅|
-|eeprom(64k)|✅|❌|❌|✅|❌|✅|✅|✅|
-
-[Download](https://github.com/laqieer/libgbabackup/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/libgbabackup){: .btn}
-
 ### libsavgba
 
 ![GitHub](https://img.shields.io/github/license/laqieer/libsavgba)
@@ -63,6 +46,23 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 libsavgba is a library to access backup media on Game Boy Advance. It supports all save types and works with flashcarts and emulators.
 
 [Download](https://github.com/laqieer/libsavgba/releases/latest){: .btn} | [Documentation](https://laqieer.github.io/libsavgba/){: .btn} | [Source Code](https://github.com/laqieer/libsavgba){: .btn}
+
+### libgbabackup
+
+![GitHub](https://img.shields.io/github/license/laqieer/libgbabackup)
+
+libgbabackup is a library to access backup media on Game Boy Advance. It supports all save types and works with flashcarts and emulators.
+
+|Devices|EZ-FLASH OMEGA|EverDrive-GBA X5|SuperCard MINI SD|mGBA|visualboyadvance-m|NO$GBA|VisualBoyAdvance|NanoBoyAdvance|
+|---|---|---|---|---|---|---|---|---|
+|sram|✅|✅|✅|✅|✅|✅|✅|✅|
+|sram(fast)|✅|✅|✅|✅|✅|✅|✅|✅|
+|flash(512k)|✅|✅|❌|✅|✅|✅|✅|✅|
+|flash(1m)|✅|✅|❌|✅|✅|✅|✅|✅|
+|eeprom(4k)|✅|✅|❌|✅|✅|✅|✅|✅|
+|eeprom(64k)|✅|❌|❌|✅|❌|✅|✅|✅|
+
+[Download](https://github.com/laqieer/libgbabackup/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/libgbabackup){: .btn}
 
 ### libsysgba
 
