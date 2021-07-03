@@ -47,7 +47,20 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 
 ![GitHub](https://img.shields.io/github/license/laqieer/libsavgba)
 
-libsavgba is a well-documented library to access various backup media in GBA cartridges.
+|Save Type|SRAM|EEPROM(512B)|EEPROM(8KB)|Flash(64KB)|Flash(128KB)|
+|---|---|---|---|---|---|
+| : Flashcarts : ||||||
+|[EZ-FLASH OMEGA](https://www.ezflash.cn/product/omega/)|✔|✔|✔|✔|✔|
+|[EverDrive-GBA X5](https://krikzz.com/store/home/42-everdrive-gba-x5.html)|✔|✔|✘|✔|✔|
+|[SuperCard MINI SD](http://chn.supercard.sc/manual/mini_sd.htm)|✔|✘|✘|✘|✘|
+| : Emulators : ||||||
+|[mGBA](https://mgba.io/)|✔|✔|✔|✔|✔|
+|[VisualBoyAdvance-M](https://vba-m.com/)|✔|✔|✔|✔|✔|
+|[NanoBoyAdvance](https://github.com/fleroviux/NanoBoyAdvance)|✔|✔|✔|✔|✔|
+|[No$GBA](https://www.nogba.com/)|✔|✔|✔|✔|✔|
+|[VisualBoyAdvance](http://www.emulator-zone.com/doc.php/gba/vboyadvance.html)|✔|✔|✔|✔|✔|
+
+libsavgba is a library to access backup media on Game Boy Advance. It supports all save types and works with flashcarts and emulators.
 
 [Download](https://github.com/laqieer/libsavgba/releases/latest){: .btn} | [Documentation](https://laqieer.github.io/libsavgba/){: .btn} | [Source Code](https://github.com/laqieer/libsavgba){: .btn}
 
