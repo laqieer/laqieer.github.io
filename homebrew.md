@@ -53,7 +53,7 @@ libgbabackup is a library to access backup media on Game Boy Advance. It support
 |[EZ-FLASH OMEGA](https://www.ezflash.cn/product/omega/)|✔|✔|✔|✔|✔|
 |[EverDrive-GBA X5](https://krikzz.com/store/home/42-everdrive-gba-x5.html)|✔|✔|✘|✔|✔|
 |[SuperCard MINI SD](http://chn.supercard.sc/manual/mini_sd.htm)|✔|✘|✘|✘|✘|
-|![][app]**Emulators**||||||
+|![](https://icons.iconarchive.com/icons/custom-icon-design/flatastic-11/64/Application-icon.png)**Emulators**||||||
 |[mGBA](https://mgba.io/)|✔|✔|✔|✔|✔|
 |[VisualBoyAdvance-M](https://vba-m.com/)|✔|✔|✔|✔|✔|
 |[NanoBoyAdvance](https://github.com/fleroviux/NanoBoyAdvance)|✔|✔|✔|✔|✔|
@@ -114,5 +114,3 @@ omega-kernel is a custom EZ-FLASH OMEGA Kernel with new features such as running
 🤓 Build your own toolchain for GBA homebrew development!
 
 [Download](https://github.com/laqieer/build-your-own-gba-toolchain/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/build-your-own-gba-toolchain){: .btn}
-
-[app]:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAv0lEQVRoge3ZQQqDMBQE0GkRD1Xs+UzPVXoUc4y2my9uUv9PwTjKPAhmEWGGn10AEREh0QN4AMgAPmRrApAsoysRBPZWihSZ7PAtcrixActkXHPrPbwAPJ19Md9182h13lhC/tqH7TmRiGK+zvnhMNiu1t/WJnJplqJO8aacZiIqwkZF2KgIGxVhoyJsVISNirBRETYqwkZF2KgIm1MXyfYdWgYJuts3r54yR3joGSNFeiszP/gwraqnNxER2dwXI5K6ndppw4AAAAAASUVORK5CYII=
