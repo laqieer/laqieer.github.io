@@ -30,6 +30,8 @@ SS6PlayerForGBA is a 2D skeletal animation engine on Game Boy Advance. It works 
 
 ![GitHub](https://img.shields.io/github/license/laqieer/libsavgba)
 
+libsavgba is a library to access backup media on Game Boy Advance. It supports all save types and works with flashcarts and emulators.
+
 |Save Type|SRAM|EEPROM(512B)|EEPROM(8KB)|Flash(64KB)|Flash(128KB)|
 |---|---|---|---|---|---|
 |![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gba-cartridge.png/64px-Gba-cartridge.png)**Flashcarts**||||||
@@ -42,8 +44,6 @@ SS6PlayerForGBA is a 2D skeletal animation engine on Game Boy Advance. It works 
 |[NanoBoyAdvance](https://github.com/fleroviux/NanoBoyAdvance)|✔|✔|✔|✔|✔|
 |[No$GBA](https://www.nogba.com/)|✔|✔|✔|✔|✔|
 |[VisualBoyAdvance](http://www.emulator-zone.com/doc.php/gba/vboyadvance.html)|✔|✔|✔|✔|✔|
-
-libsavgba is a library to access backup media on Game Boy Advance. It supports all save types and works with flashcarts and emulators.
 
 [Download](https://github.com/laqieer/libsavgba/releases/latest){: .btn} | [Documentation](https://laqieer.github.io/libsavgba/){: .btn} | [Source Code](https://github.com/laqieer/libsavgba){: .btn}
 
