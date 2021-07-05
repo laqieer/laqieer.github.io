@@ -114,3 +114,15 @@ omega-kernel is a custom EZ-FLASH OMEGA Kernel with new features such as running
 🤓 Build your own toolchain for GBA homebrew development!
 
 [Download](https://github.com/laqieer/build-your-own-gba-toolchain/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/build-your-own-gba-toolchain){: .btn}
+
+## Tool
+
+### detect-save-type
+
+![GitHub](https://img.shields.io/github/license/laqieer/libsavgba)
+
+detect-save-type is a tool to detect backup media type.
+
+![](https://media.discordapp.net/attachments/682141375587680274/861456724882882581/detect-save-type-0.png)![](https://media.discordapp.net/attachments/682141375587680274/861456723197689906/detect-save-type-1.png)![](https://media.discordapp.net/attachments/682141375587680274/861456721600184340/detect-save-type-2.png)![](https://media.discordapp.net/attachments/682141375587680274/861456720156033044/detect-save-type-3.png)
+
+[Download](https://github.com/laqieer/libsavgba/releases/download/v3.2.0/detect-save-type.gba){: .btn} | [Source Code](https://github.com/laqieer/libsavgba/tree/main/test/detect-save-type){: .btn}
