@@ -2,6 +2,16 @@
 
 # GBA Homebrew Development
 
+## Game
+
+### Piano on GBA
+
+Piano on GBA is a piano emulator on Game Boy Advance.
+
+![](https://github.com/laqieer/piano-on-GBA/raw/main/logo.png)![](https://github.com/laqieer/piano-on-GBA/raw/main/graphics/keyboard_61.png)
+
+[Demo](https://github.com/laqieer/piano-on-GBA/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/piano-on-GBA){: .btn}
+
 ## Engine
 
 ### GBALVNS
