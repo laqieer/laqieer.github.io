@@ -100,7 +100,7 @@ awesome-fireemblem-modding collects awesome Fire Emblem modding resources.
 
 FE_GBA_Function_Library is a function library of Fire Emblem on Game Boy Advance.
 
-[Read](https://github.com/laqieer/FE_GBA_Function_Library/blob/master/functions.md){: .btn} | [Download](https://github.com/laqieer/FE_GBA_Function_Library/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/FE_GBA_Function_Library){: .btn}
+[Read](https://laqieer.github.io/FE_GBA_Function_Library/){: .btn} | [Source Code](https://github.com/laqieer/FE_GBA_Function_Library){: .btn}
 
 #### FE6_Official_CN_Text
 
