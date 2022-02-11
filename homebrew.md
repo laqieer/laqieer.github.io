@@ -153,6 +153,6 @@ gba-dev-best-practice is a series of videos to share best practice for GBA homeb
 
 gba-free-fonts is a series of easy-to-use free fonts for GBA homebrew development.
 
-![](https://user-images.githubusercontent.com/8841957/153477701-cca03e88-aed8-4bc3-82fd-8a8d93d38cc4.png)
+![](https://raw.githubusercontent.com/laqieer/gba-dev-best-practice/main/.gitbook/assets/%E7%AC%AC8%E7%AB%A0%E7%A4%BA%E4%BE%8B.png)
 
 [Repo](https://github.com/laqieer/gba-free-fonts){: .btn}
