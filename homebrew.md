@@ -144,3 +144,11 @@ detect-save-type is a tool to detect backup media type.
 gba-dev-best-practice is a series of videos to share best practice for GBA homebrew development.
 
 [Watch](https://laqieer.gitbook.io/gba-dev-best-practice/){: .btn} | [Source Code](https://github.com/laqieer/gba-dev-best-practice){: .btn}
+
+## Resource
+
+### gba-free-fonts
+
+gba-free-fonts is a series of easy-to-use free fonts for GBA homebrew development.
+
+[Repo](https://github.com/laqieer/gba-free-fonts){: .btn}
