@@ -155,4 +155,4 @@ gba-free-fonts is a series of easy-to-use free fonts for GBA homebrew developmen
 
 ![](https://user-images.githubusercontent.com/8841957/153871980-5ab179f1-b13c-4c08-89cb-45e28936e4aa.png)![](https://user-images.githubusercontent.com/8841957/153871992-f420e32d-caa5-4802-9d17-4850b5fa20a9.png)![](https://user-images.githubusercontent.com/8841957/153871997-d65dd80c-1b46-455a-ade1-820a33b746e4.png)
 
-[Repo](https://github.com/laqieer/gba-free-fonts){: .btn}
+[Download](https://github.com/laqieer/gba-free-fonts/releases/latest){: .btn} | [Repo](https://github.com/laqieer/gba-free-fonts){: .btn}
