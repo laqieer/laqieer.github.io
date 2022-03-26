@@ -84,6 +84,14 @@ Event-Assembler with assembly output and Japan version support.
 
 [Download](https://github.com/laqieer/Event-Assembler/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/Event-Assembler){: .btn}
 
+#### https://github.com/laqieer/FE-ROM-Hack-Database
+
+FE-ROM-Hack-Database helps you to manage ROM hacks with various ROM managers.
+
+![](https://user-images.githubusercontent.com/8841957/160256082-e9f2ec1b-3b49-458c-bab2-4575aaf4d231.png)
+
+[Repo](https://github.com/laqieer/FE-ROM-Hack-Database){: .btn} | [Search](http://github.laqieer.ml/search.html){: .btn} | [Gallery](http://github.laqieer.ml/gallery.html){: .btn}
+
 ### Documentation
 
 #### awesome-fireemblem-modding
