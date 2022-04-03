@@ -44,12 +44,12 @@ fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA
 
 #### April Fool's Day Hack
 
-![](https://user-images.githubusercontent.com/8841957/161155118-db74b537-508e-4624-8810-7aaf3c931f75.png)
+![](https://user-images.githubusercontent.com/8841957/161155118-db74b537-508e-4624-8810-7aaf3c931f75.png)![愚人节故事-0](https://user-images.githubusercontent.com/8841957/161411550-78cbee5f-67d3-4881-a8da-8ea471e16584.png)
 
-It is a mod of Fire Emblem: The Sacred Stones (US). Its story is from [Greek myth](https://en.4hw.com.cn/646/75420.html).
+It is a mod of Fire Emblem: The Sacred Stones. Its story is from [Greek myth](https://en.4hw.com.cn/646/75420.html).
 
-[Download](https://github.com/laqieer/laqieer.github.io/files/8393269/Laqieer.s.April.Fool.s.Day.Hack.0.1.zip){: .btn}
-
+[English Version](https://github.com/laqieer/laqieer.github.io/files/8393269/Laqieer.s.April.Fool.s.Day.Hack.0.1.zip){: .btn} | 
+[中文版](https://github.com/laqieer/laqieer.github.io/files/8403823/v0.1.zip){: .btn}
 
 #### FE7CNLOL
 
