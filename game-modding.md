@@ -48,8 +48,7 @@ fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA
 
 It is a mod of Fire Emblem: The Sacred Stones. Its story is from [Greek myth](https://en.4hw.com.cn/646/75420.html).
 
-[English Version](https://github.com/laqieer/laqieer.github.io/files/8393269/Laqieer.s.April.Fool.s.Day.Hack.0.1.zip){: .btn} | 
-[中文版](https://github.com/laqieer/laqieer.github.io/files/8403823/v0.1.zip){: .btn}
+[English Version](https://github.com/laqieer/laqieer.github.io/files/8393269/Laqieer.s.April.Fool.s.Day.Hack.0.1.zip){: .btn} | [中文版](https://github.com/laqieer/laqieer.github.io/files/8403823/v0.1.zip){: .btn}
 
 #### FE7CNLOL
 
