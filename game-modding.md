@@ -104,7 +104,7 @@ FE-ROM-Hack-Database helps you to manage ROM hacks with various ROM managers.
 
 FE-Mod-Face-Search helps you to search faces appeared in Fire Emblem Modding.
 
-![](https://user-images.githubusercontent.com/8841957/165350215-90ea0db5-7689-4f5a-bd6f-dcf5970c198d.png)
+![](https://user-images.githubusercontent.com/8841957/165350215-90ea0db5-7689-4f5a-bd6f-dcf5970c198d.png)![](https://user-images.githubusercontent.com/8841957/165586718-5bebdffc-65ad-4b89-8862-2231b8728366.png)
 
 [Repo](https://github.com/laqieer/FE-Mod-Face-Search){: .btn} | [Search](https://laqieer.github.io/FE-Mod-Face-Search/){: .btn}
 
