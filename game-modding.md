@@ -26,9 +26,12 @@ Coming soon!
 
 fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA). The following are my unique contributions:
 - initial function map from IDA to disassemble it
+- build project on various environments including Linux, MAC M1, MSYS2, WSL2, Docker, Codespaces and so on
+- documentation including project build guide and FAQ
 - [compiler explorer support](https://github.com/SBird1337/cexplore/pull/1) to decompile it
 - [a ARM linker with section compression](https://github.com/FireEmblemUniverse/fireemblem8u/blob/master/scripts/arm_compressing_linker.py) for animations
 - dump all songs and sound data
+- dump all compressed texts
 
 [Full PR History](https://github.com/FireEmblemUniverse/fireemblem8u/pulls?q=is%3Apr+author%3Alaqieer)
 
