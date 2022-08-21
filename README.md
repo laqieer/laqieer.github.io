@@ -45,10 +45,10 @@ libsavgba is a library to access backup media on Game Boy Advance. It supports a
 
 ## FEHR
 
-![GitHub](https://img.shields.io/github/license/laqieer/fe7-jp-stunning-tribble)
+![GitHub](https://img.shields.io/github/license/laqieer/FEHR)
 
 FEHR is [Fire Emblem Heroes](https://fire-emblem-heroes.com/) Remake on Game Boy Advance.
 
-![](https://feuniverse.us/uploads/default/original/3X/3/1/316c67156c80d51202aee42e7e67f8bc4a061e7a.png)![](https://feuniverse.us/uploads/default/original/3X/7/7/77a28136ee92b72e509327b3b8236a970aaa89d6.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NDgucG5n/original/PByZHc.png)![](https://feuniverse.us/uploads/default/original/3X/a/9/a9143b1900f476cbe9e237edb27635859489607b.png)![](https://feuniverse.us/uploads/default/original/3X/b/7/b7a963701d069e254e8da0ecabe16e9dff959af9.png)![](https://feuniverse.us/uploads/default/original/3X/7/a/7ac20a3d14310c1039da78835bda82ab48f7f5aa.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NTEucG5n/original/Y%2FQzF7.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NDkucG5n/original/kj1s%2BV.png)![](https://img.itch.zone/aW1hZ2UvOTI2MDA3LzUyMzc3NTAucG5n/original/6NjmIP.png)![](https://feuniverse.us/uploads/default/original/3X/b/a/ba0a95d85abd080d262802807bdd6be6e3b9108f.png)![](https://feuniverse.us/uploads/default/original/3X/b/f/bfac1af989171749e6a21c0ccd35ade6bb9cd19a.png)![](https://feuniverse.us/uploads/default/original/3X/2/0/2032e84ae1edea30848f41485f3332d35f250ce8.png)
+![](https://feuniverse.us/uploads/default/original/3X/7/7/77a28136ee92b72e509327b3b8236a970aaa89d6.png)
 
-[Try Out](https://laqieer.gitee.io/fehr/launcher.html#fehr){: .btn} | [Download](https://github.com/laqieer/fe7-jp-stunning-tribble/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/fe7-jp-stunning-tribble){: .btn} | [Wiki](https://github.com/laqieer/fe7-jp-stunning-tribble/wiki){: .btn}
+[Try Out](https://laqieer.gitee.io/fehr/launcher.html#fehr){: .btn} | [Download](https://github.com/laqieer/FEHR/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/FEHR){: .btn} | [Wiki](https://github.com/laqieer/FEHR/wiki){: .btn}
