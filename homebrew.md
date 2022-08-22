@@ -20,7 +20,7 @@ Piano on GBA is a piano emulator on Game Boy Advance.
 
 GBALVNS is a Visual Novel / AVG / ADV / Galgame engine on Game Boy Advance.
 
-![](https://media.discordapp.net/attachments/682141375587680274/820353613573652481/summer-2.png)![](https://media.discordapp.net/attachments/682141375587680274/820353609774530580/summer-0.png)![](https://media.discordapp.net/attachments/682141375587680274/820353612844498994/summer-1.png)![](https://media.discordapp.net/attachments/682141375587680274/820353615485992960/summer-3.png)![](https://media.discordapp.net/attachments/682141375587680274/820558326080339988/summer-1.png)![](https://media.discordapp.net/attachments/682141375587680274/820558322981404692/summer-0.png)
+![](https://user-images.githubusercontent.com/8841957/185962493-bed92953-1d01-4a38-9be2-50333a5123ab.png)![](https://user-images.githubusercontent.com/8841957/185962498-8d2f0b4f-6571-4fc3-9dcc-15ec573b4934.png)![](https://user-images.githubusercontent.com/8841957/185962500-e2cd89bd-8dd3-4eef-82dc-c3b00a7e701f.png)![](https://user-images.githubusercontent.com/8841957/185962501-b465de1c-11c8-418e-91a5-37847e6193dd.png)![](https://user-images.githubusercontent.com/8841957/185962503-53b15280-12da-46c6-9dd2-4f0cfef7b1b3.png)![](https://user-images.githubusercontent.com/8841957/185962509-4350b9be-4f07-4d39-ae42-454ceff77712.png)
 
 [Demo](https://github.com/laqieer/gbalvns/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/gbalvns){: .btn}
 
@@ -30,7 +30,7 @@ GBALVNS is a Visual Novel / AVG / ADV / Galgame engine on Game Boy Advance.
 
 SS6PlayerForGBA is a 2D skeletal animation engine on Game Boy Advance. It works with [OPTPiX SpriteStudio 6](http://www.webtech.co.jp/eng/spritestudio/).
 
-![](https://media.discordapp.net/attachments/682141375587680274/840278168560467988/character_sample1-0.png)![](https://media.discordapp.net/attachments/682141375587680274/840278166294888459/character_sample1-1.png)
+![](https://user-images.githubusercontent.com/8841957/185961538-3a157c70-ae67-49fe-bc97-9356f7faac1c.gif)![](https://user-images.githubusercontent.com/8841957/185961567-89fa8cfc-2e41-43b1-8ad6-374dc6580cef.gif)
 
 [Demo](https://github.com/laqieer/SS6PlayerForGBA/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/SS6PlayerForGBA){: .btn}
 
