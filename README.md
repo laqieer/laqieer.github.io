@@ -2,4 +2,4 @@
 
 # Welcome to Laqieer's Gallery
 
-[Wiki](https://github.com/laqieer/laqieer.github.io/wiki/)
+[Wiki](https://github.com/laqieer/laqieer.github.io/wiki/){: .btn}
