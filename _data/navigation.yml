@@ -2,6 +2,8 @@
   link: /
 - name: GBA Homebrew
   link: /homebrew.html
+- name: Hardware Design
+  link: /hardware.html
 - name: Reverse Engineering
   link: /reverse-engineering.html
 - name: Game Modding
