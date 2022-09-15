@@ -91,11 +91,13 @@ Fire_Emblem_Expand_Save expands save space for Fire Emblem on Game Boy Advance. 
 
 ### Tool
 
-#### Event-Assembler
+#### EventAssembler
 
-Event-Assembler with assembly output and Japan version support.
+EventAssembler is a Multi-platform App on Windows, macOS, Android and iOS to edit events in Fire Emblem.
 
-[Download](https://github.com/laqieer/Event-Assembler/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/Event-Assembler){: .btn}
+<img height="250" src="https://user-images.githubusercontent.com/8841957/190300375-7d951a49-f519-4914-9474-004c65c5aeb4.png"><img height="250" src="https://user-images.githubusercontent.com/8841957/190299003-3abb3dcf-caf4-442c-a494-c12bd6465162.png"><img height="250" src="https://user-images.githubusercontent.com/8841957/190299762-6b52a7ea-b620-4ed7-9ce9-3a43129d7985.jpg">
+
+[Download](https://github.com/laqieer/EventAssembler/releases/latest){: .btn} | [Guide](https://github.com/laqieer/EventAssembler/wiki/User's-Guide){: .btn} | [Source Code](https://github.com/laqieer/EventAssembler){: .btn}
 
 #### FE-ROM-Hack-Database
 
