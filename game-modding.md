@@ -91,6 +91,16 @@ Fire_Emblem_Expand_Save expands save space for Fire Emblem on Game Boy Advance. 
 
 ### Tool
 
+#### Nightmare 3
+
+![GitHub](https://img.shields.io/github/license/laqieer/nightmare)
+
+Nightmare 3 is an online modularized ROM editor, successor to [Nightmare](https://www.romhacking.net/utilities/1307/) and [Nightmare 2](https://www.romhacking.net/utilities/610/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1nrD-8ofks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Online](https://laqieer.github.io/nightmare){: .btn} | [Source Code](https://github.com/laqieer/nightmare){: .btn}
+
 #### EventAssembler
 
 ![GitHub](https://img.shields.io/github/license/laqieer/EventAssembler)
