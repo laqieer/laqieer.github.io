@@ -149,6 +149,14 @@ FE_GBA_Function_Library is a function library of Fire Emblem on Game Boy Advance
 
 [Read](https://laqieer.github.io/FE_GBA_Function_Library/){: .btn} | [Source Code](https://github.com/laqieer/FE_GBA_Function_Library){: .btn}
 
+#### fe-maps
+
+![GitHub](https://img.shields.io/github/license/laqieer/fe-maps)
+
+fe-maps is GBA Fire Emblem Data Maps inspired by [GBA Metroid Data Maps](https://github.com/biosp4rk/maps).
+
+[Read](https://laqieer.github.io/fe-maps/){: .btn} | [Source Code](https://github.com/laqieer/fe-maps){: .btn}
+
 #### FE6_Official_CN_Text
 
 FE6_Official_CN_Text is full text dumped from Fire Emblem: The Binding Blade by iQue. Dumper is attached.
