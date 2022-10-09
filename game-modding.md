@@ -34,6 +34,7 @@ fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA
 - [a ARM linker with section compression](https://github.com/FireEmblemUniverse/fireemblem8u/blob/master/scripts/arm_compressing_linker.py) for animations
 - dump all songs and sound data
 - dump all compressed texts
+- dump graphics including BG, CG, battle animations, battle backgrounds, battle terrains and so on
 
 [Full PR History](https://github.com/FireEmblemUniverse/fireemblem8u/pulls?q=is%3Apr+author%3Alaqieer)
 
