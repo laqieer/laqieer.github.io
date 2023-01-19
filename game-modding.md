@@ -165,6 +165,12 @@ FE6_Official_CN_Text is full text dumped from Fire Emblem: The Binding Blade by 
 
 [Full Text](https://laqieer.github.io/FE6_Official_CN_Text/){: .btn} | [Source Code](https://github.com/laqieer/FE6_Official_CN_Text){: .btn}
 
+#### FE17-DOC
+
+FE17-DOC is full text dumped from Fire Emblem: Engage. English + Japanese + Chinese.
+
+[Online](https://laqieer.github.io/FE17-DOC/){: .btn} | [Repo](https://github.com/laqieer/FE17-DOC){: .btn}
+
 ### Miscellaneous
 
 #### laqieer-fehack
