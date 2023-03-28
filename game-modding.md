@@ -28,6 +28,7 @@ FEHRG is FEHR's Gaiden. It is side story with paralogue maps.
 
 fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA). The following are my unique contributions:
 - initial function map from IDA to disassemble it
+- [simple website](https://laqieer.github.io/fireemblem8u/) for auto-updated decomp progress and symbol table
 - build project on various environments including Linux, MAC M1, MSYS2, WSL2, Docker, Codespaces and so on
 - documentation including project build guide and FAQ
 - [compiler explorer support](https://github.com/SBird1337/cexplore/pull/1) to decompile it
@@ -37,9 +38,7 @@ fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA
 - dump chapter settings and map assets
 - dump graphics including BG, CG, battle animations, battle backgrounds, battle terrains and so on
 
-[Full PR History](https://github.com/FireEmblemUniverse/fireemblem8u/pulls?q=is%3Apr+author%3Alaqieer)
-
-[Contribute](https://github.com/FireEmblemUniverse/fireemblem8u){: .btn}
+[Progress](https://laqieer.github.io/fireemblem8u/progress.txt){: .btn} | [Symbols](https://laqieer.github.io/fireemblem8u/symbols.txt){: .btn} | [Contributions](https://github.com/FireEmblemUniverse/fireemblem8u/pulls?q=is%3Apr+author%3Alaqieer){: .btn} | [Contribute](https://github.com/FireEmblemUniverse/fireemblem8u){: .btn}
 
 #### 四牙相食む (Feud of the Fangs)
 
