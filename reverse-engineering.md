@@ -38,12 +38,12 @@ decomp-permuter-arm permutes C files to better match binary on ARM platform to h
 
 ![GitHub](https://img.shields.io/github/license/laqieer/IDABuddy)
 
+IDABuddy is always your best friend when decomp GBA games with [IDA](https://hex-rays.com/ida-pro/).
+
+[Download](https://github.com/laqieer/IDABuddy){: .btn}
+
 ## fe-decomp-portal
 
 fe-decomp-portal is a Portal for Fire Emblem Decomp projects.
 
 [Website](https://laqieer.github.io/fe-decomp-portal/){: .btn} | [Source Code](https://github.com/laqieer/fe-decomp-portal){: .btn}
-
-IDABuddy is always your best friend when decomp GBA games with [IDA](https://hex-rays.com/ida-pro/).
-
-[Download](https://github.com/laqieer/IDABuddy){: .btn}
