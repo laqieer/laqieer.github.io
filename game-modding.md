@@ -122,7 +122,7 @@ FE-ROM-Hack-Database helps you to manage ROM hacks with various ROM managers.
 
 ![](https://user-images.githubusercontent.com/8841957/160256082-e9f2ec1b-3b49-458c-bab2-4575aaf4d231.png)
 
-[Repo](https://github.com/laqieer/FE-ROM-Hack-Database){: .btn} | [Search](http://laqieer.github.io/FE-ROM-Hack-Database/search.html){: .btn} | [Gallery](http://laqieer.github.io/FE-ROM-Hack-Database/gallery.html){: .btn}
+[Repo](https://github.com/laqieer/FE-ROM-Hack-Database){: .btn} | [Search](http://laqieer.romhack-archive.org/search.html){: .btn} | [Gallery](http://laqieer.romhack-archive.org/gallery.html){: .btn}
 
 #### FE-Mod-Face-Search
 
