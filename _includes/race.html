@@ -1,0 +1,4 @@
+<script src="https://strava-embeds.com/embed.js"></script>
+{% for item in site.data.race %}
+  <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="{{ item }}" data-style="standard"></div>
+{% endfor %}
