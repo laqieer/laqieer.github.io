@@ -15,4 +15,6 @@
 
 ## Race
 
+[Race Page](https://laqieer.github.io/running_race/){: .btn}
+
 {% include race.html %}
