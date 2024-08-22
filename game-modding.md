@@ -24,6 +24,14 @@ FEHRG is FEHR's Gaiden. It is side story with paralogue maps.
 
 [Download](https://github.com/laqieer/FEHRG/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/FEHRG){: .btn}
 
+#### FEHRR
+
+FEHRR is FEHR's Remake on [Fire Emblem 6 (J) (GBA)](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%96%E3%83%AC%E3%83%A0_%E5%B0%81%E5%8D%B0%E3%81%AE%E5%89%A3).
+
+![](https://github.com/user-attachments/assets/6c02fccf-1c34-44e4-8154-7eae984a41f3)
+
+[Download](https://github.com/laqieer/FEHRR/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/FEHRR){: .btn}
+
 #### fireemblem8u
 
 fireemblem8u is decompilation/disassembly of Fire Emblem: The Sacred Stones (USA). The following are my unique contributions:
