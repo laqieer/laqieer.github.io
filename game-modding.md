@@ -30,7 +30,7 @@ FEHRR is FEHR's Remake on [Fire Emblem 6 (J) (GBA)](https://ja.wikipedia.org/wik
 
 ![](https://github.com/user-attachments/assets/6c02fccf-1c34-44e4-8154-7eae984a41f3)
 
-[Download](https://github.com/laqieer/FEHRR/releases/latest){: .btn} | [Source Code](https://github.com/laqieer/FEHRR){: .btn}
+[Download](https://nightly.link/laqieer/FEHRR/workflows/build/main){: .btn} | [Source Code](https://github.com/laqieer/FEHRR){: .btn}
 
 #### fireemblem8u
 
