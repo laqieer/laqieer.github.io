@@ -17,8 +17,20 @@
 
 [Race Page](https://laqieer.github.io/running_race/){: .btn}
 
-{% include race.html %}
+### PB
 
-## V.O2
+#### Half-Marathon
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11350917190" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+#### 10K
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="11346134597" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+### V.O2
 
 <iframe src='https://vdoto2.com/calculator/embed' width='600' height='1600' frameborder='0'></iframe>
+
+### Latest
+
+{% include race.html %}
