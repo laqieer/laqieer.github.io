@@ -18,3 +18,7 @@
 [Race Page](https://laqieer.github.io/running_race/){: .btn}
 
 {% include race.html %}
+
+## V.O2
+
+<iframe src='https://vdoto2.com/calculator/embed' width='600' height='1600' frameborder='0'></iframe>
