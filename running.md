@@ -15,7 +15,7 @@
 
 ## Race
 
-[Race Page](https://laqieer.github.io/running_race/){: .btn}
+[Race Page](https://laqieer.github.io/running_race/){: .btn} | [Achievement Certificates](https://laqieer.github.io/running_cert/){: .btn}
 
 ### PB
 
