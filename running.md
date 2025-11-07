@@ -25,7 +25,7 @@
 
 #### 10K
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15723734059" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16327355887" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ### V.O2
 
