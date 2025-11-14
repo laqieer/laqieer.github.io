@@ -15,7 +15,7 @@
 
 ## Race
 
-[Race Page](https://laqieer.github.io/running_race/){: .btn} | [Achievement Certificates](https://laqieer.github.io/running_cert/){: .btn}
+[Race Page](https://laqieer.github.io/running_race/){: .btn} | [Achievement Certificates](https://laqieer.github.io/running_cert/){: .btn} | [Parkrun](https://paulsrunning.com/timing/results.php?user=1547){: .btn}
 
 ### PB
 
@@ -26,6 +26,10 @@
 #### 10K
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16327355887" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+#### 5K
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16246480317" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 ### V.O2
 
