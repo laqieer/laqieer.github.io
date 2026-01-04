@@ -25,7 +25,7 @@
 
 #### 10K
 
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16327355887" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16899856389" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 #### 5K
 
